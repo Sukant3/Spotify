@@ -28,15 +28,26 @@ _____________________________________
 ## 🛠️ Tech Stack
 
 - ⚛️ **Frontend**: React.js
-- 
+ 
 - 🎨 **Styling**: Tailwind CSS
-- 
+  
 - 🔁 **Routing**: React Router DOM
-- 
+  
 - 🧠 **State Management**: Context API
-- 
+  
 - 🎵 **Audio Playback**: `<audio>` element with React ref
-  ____________________________
+____________________________
+
+
+## 📈 Performance Highlights
+
+Fast load time with optimized components
+
+Clean, organized folder structure for scalability
+
+Reusable player component for consistent experience
+_______________________________
+
 
  ## 🔥 Contribution
 
