@@ -1,4 +1,4 @@
-🎧 SoundWave – Spotify Clone Music Streaming App
+**🎧 SoundWave** – Spotify Clone Music Streaming App
 __________________________________
 
 **SoundWave** is a sleek and functional Spotify-inspired music streaming web app built using modern web technologies. 
